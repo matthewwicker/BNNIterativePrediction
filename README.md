@@ -1,4 +1,4 @@
-# Bayesian Iterative Prediction
+# Certification of Iterative Predictions in Bayesian Neural Networks
 
 This repository contains an implimentation of the theoretical certification framework proposed
 in the UAI 2021 paper "Certification of Iterative Predictions in Bayesian Neural Networks" and 
